@@ -8,8 +8,6 @@ public class SuperClass {
  class SubClass extends SuperClass {
   SubClass() {
     // Line n1
-    //TODO: remove line below -> super(10);
-    super(10);
     System.out.println("Sub 2");
   }
 }

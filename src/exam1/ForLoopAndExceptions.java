@@ -11,9 +11,9 @@ public class ForLoopAndExceptions {
       }
     } catch (Exception e1) {
       System.out.println("E1");
-    } /*catch (ArithmeticException e1) {
+    } catch (ArithmeticException e1) {
       System.out.println("E2");
-    }*/
+    }
   }
 }
 /** What is the result?
